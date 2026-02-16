@@ -1,3 +1,3 @@
----ARTI407-8MA2-Lab1
----bash---
-    print("hello")
+# Lab 1 - Image Processing
+
+This project contains the first image processing lab tasks.
