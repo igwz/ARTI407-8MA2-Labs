@@ -9,6 +9,8 @@ It is used to complete and submit the assigned lab exercises for the course.
 - `Lab2/` - Materials and solutions for Lab 2
 - `Lab3/` - Materials and solutions for Lab 3
 - `Lab4/` - Materials and solutions for Lab 4
+- `Lab5/` - Materials and solutions for Lab 5
+- `Lab6/` - Materials and solutions for Lab 6
 
 ## Purpose
 The goal of this repository is to keep all lab work organized, version-controlled, and easy to review throughout the semester.
